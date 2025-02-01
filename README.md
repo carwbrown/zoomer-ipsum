@@ -1,4 +1,4 @@
-# Rsbuild Project
+# Zoomer Ipsum
 
 ## Setup
 

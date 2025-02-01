@@ -55,7 +55,6 @@ export const zoomerism = [
 	"rizzing up the TA",
 	"living my worst life rn",
 	"chronically online behavior",
-	"gonna kms",
 	"zero cap no printer",
 	"not me acting unhinged",
 	"bestie i'm fighting for my life",
